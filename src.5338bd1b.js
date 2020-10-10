@@ -144,13 +144,13 @@ module.exports="./choice-of-number-rules.6223c7d8.mp3";
 },{}],"hXTj":[function(require,module,exports) {
 "use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.default=void 0;var e={name:"choiceOfNumber",title:"Найти число",types:[{words:[{word:"12",syllable:["12"],audio:require("../../../assets/audio/choiceOfNumber/12.mp3"),used:!1},{word:"21",syllable:["21"],audio:require("../../../assets/audio/choiceOfNumber/21.mp3"),used:!1},{word:"5",syllable:["5"],audio:require("../../../assets/audio/choiceOfNumber/5.mp3"),used:!1}],data:["1","2","3","4","5","11","14","6","7","8","20","21","53","15","32","30","29"]}],win:{part:"all",refresh:!1},levels:[{parts:5,width:3,height:3},{parts:7,width:3,height:3},{parts:5,width:4,height:3},{parts:5,width:3,height:3},{parts:5,width:3,height:3}],rulesSound:require("../../../assets/audio/choiceOfNumber/choice-of-number-rules.mp3")},r=e;exports.default=r;
 },{"../../../assets/audio/choiceOfNumber/12.mp3":"ayIf","../../../assets/audio/choiceOfNumber/21.mp3":"jlsn","../../../assets/audio/choiceOfNumber/5.mp3":"pY1S","../../../assets/audio/choiceOfNumber/choice-of-number-rules.mp3":"og4Q"}],"de2X":[function(require,module,exports) {
-module.exports="/lo.81348f10.mp3";
+module.exports="./lo.81348f10.mp3";
 },{}],"aCtm":[function(require,module,exports) {
-module.exports="/ra.be5ed746.mp3";
+module.exports="./ra.be5ed746.mp3";
 },{}],"uPHQ":[function(require,module,exports) {
-module.exports="/or.bcaa7ef9.mp3";
+module.exports="./or.bcaa7ef9.mp3";
 },{}],"Vagv":[function(require,module,exports) {
-module.exports="/choice-of-syllable-rules.856548f4.mp3";
+module.exports="./choice-of-syllable-rules.856548f4.mp3";
 },{}],"ye1l":[function(require,module,exports) {
 "use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.default=void 0;var e={name:"choiceOfSyllable",title:"Найти слог",types:[{words:[{word:"ло",syllable:["ло"],audio:require("../../../assets/audio/choiceOfSyllable/lo.mp3"),used:!1},{word:"ра",syllable:["ра"],audio:require("../../../assets/audio/choiceOfSyllable/ra.mp3"),used:!1},{word:"ор",syllable:["ор"],audio:require("../../../assets/audio/choiceOfSyllable/or.mp3"),used:!1}],data:["при","вет","ор","со","фа","фу","ку","ло","ми","ро","лаг","дол","яр","ак","мо","хо","по"]}],win:{part:"all",refresh:!1},levels:[{parts:5,width:3,height:3},{parts:7,width:3,height:3},{parts:5,width:4,height:3},{parts:5,width:3,height:3},{parts:5,width:3,height:3}],rulesSound:require("../../../assets/audio/choiceOfSyllable/choice-of-syllable-rules.mp3")},l=e;exports.default=l;
 },{"../../../assets/audio/choiceOfSyllable/lo.mp3":"de2X","../../../assets/audio/choiceOfSyllable/ra.mp3":"aCtm","../../../assets/audio/choiceOfSyllable/or.mp3":"uPHQ","../../../assets/audio/choiceOfSyllable/choice-of-syllable-rules.mp3":"Vagv"}],"c3Zb":[function(require,module,exports) {
